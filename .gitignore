@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# Thumbnails
+._.DS_Store
+
+# Spotlight files
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# macOS metadata
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+
+# Übersichts cache
+node_modules/
+dist/
+.cache/
